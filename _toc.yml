@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Foundations
+    numbered: True
+    maxdepth: 2
+    chapters:
+    - file: 01-foundations/01-analytics-in-marketing/index
+    - file: 01-foundations/02-marketing-data-sources/index
+    - file: 01-foundations/03-marketing-measurement/index   
